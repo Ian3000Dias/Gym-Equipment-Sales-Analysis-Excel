@@ -183,4 +183,4 @@ This project was completed as part of my data analytics learning journey to stre
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-Connect with me on LinkedIn and explore my other analytics projects in this portfolio.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/iandias20/) and explore my other analytics projects in this [GitHub](https://github.com/Ian3000Dias).
