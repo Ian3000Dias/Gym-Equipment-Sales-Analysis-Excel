@@ -150,13 +150,14 @@ Through this project, I strengthened my ability to:
 
 ## Repository Contents
 
+<!--├── screenshots/
+│   ├── profit-by-brand.png
+│   ├── yoy-analysis.png
+│   └── contribution-analysis.png-->
+
 ```text
 .
 ├── data_analysis_exercise.xlsx
-├── screenshots/
-│   ├── profit-by-brand.png
-│   ├── yoy-analysis.png
-│   └── contribution-analysis.png
 └── README.md
 ```
 
