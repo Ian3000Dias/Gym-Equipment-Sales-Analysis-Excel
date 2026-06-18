@@ -1,5 +1,4 @@
 # Gym Equipment Sales Analysis | Excel Data Analysis
-// # Fitness Equipment Profitability Analysis | Excel Data Analytics Project
 
 ## Project Overview
 
@@ -179,7 +178,7 @@ This project was completed as part of my data analytics learning journey to stre
 
 ## Author
 
-**Your Name**
+**Ian Dias**
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
